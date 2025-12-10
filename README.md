@@ -1,3 +1,6 @@
+#This python script helps you find malicious domains from a list of domains in a .csv file 
+#This will help you remove false positives from a list of malicious domains.
+
 How to Use
 
 1) Add your API keys
