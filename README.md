@@ -1,5 +1,5 @@
-#This python script helps you find malicious domains from a list of domains in a .csv file 
-#This will help you remove false positives from a list of malicious domains.
+-This python script helps you find malicious domains from a list of IPs in a .csv file 
+-This will help you remove false positives from a list of malicious IPs.
 
 How to Use
 
